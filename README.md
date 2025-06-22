@@ -35,6 +35,4 @@ pip install -r requirements.txt
 - **Never** commit real secrets or keys in config files.
 - Use secret managers and `.gitignore` for all private credentials and keys.
 
-## Authors
 
-- *Your Name* (for demo/portfolio purposes)
