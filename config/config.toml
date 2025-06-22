@@ -1,0 +1,13 @@
+[dev]
+# Fill in with your Snowflake config, e.g.:
+# account = "xy12345.ap-southeast-2"
+# user = "YOUR_USER"
+# warehouse = "YOUR_WAREHOUSE"
+# database = "tb_voc"
+# schema = "analytics"
+# private_key_path = "/path/to/your_private_key.p8"
+# private_key_passphrase = "your_passphrase"
+# role = "accountadmin"
+
+[prd]
+# Same as above for production

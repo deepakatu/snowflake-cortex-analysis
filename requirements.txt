@@ -1,0 +1,6 @@
+pandas
+docx
+snowflake-connector-python
+snowflake-snowpark-python
+cryptography
+toml

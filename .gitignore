@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
+
+# Data & Secrets
+*.p8
+config/config.toml
+input/*.csv
+output/*.docx
+.env
+
+# Misc
+.DS_Store
